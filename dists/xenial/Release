@@ -1,0 +1,20 @@
+Origin: Allwine Designs
+Label: Allwine Designs GitHub
+Suite: stable
+Codename: xenial
+Date: Wed, 29 Nov 2017 22:39:54 UTC
+Architectures: amd64
+Components: main
+Description: Debian amd64 packages hosted on GitHub
+MD5Sum:
+ be7398a916ff4fe9db499a342512fae8 613 main/binary-amd64/Packages
+ 7bda6b36aa6f842066049334dca9728b 429 main/binary-amd64/Packages.gz
+ b606d16de839c93e06cfc0263d9f358c 158 main/binary-amd64/Release
+SHA1:
+ 75d1750337741d433469d28e12b54f7a0ebe6fcc 613 main/binary-amd64/Packages
+ 5d28fd1cc56d0e80bf64b23dc353ca75a3e04139 429 main/binary-amd64/Packages.gz
+ 6cbc42f15924e39d1347f70da0452748661f722b 158 main/binary-amd64/Release
+SHA256:
+ fe21e315f120c116bfba3ab5e00ee09ea862bbb632fa5541c0702dcf2ec4eec0 613 main/binary-amd64/Packages
+ 4a45d8e6c3836967432b0443cdac3059d52251aef399e7035851e2133a3bf9a4 429 main/binary-amd64/Packages.gz
+ 2c39a275bcdb40e67d046f569301dd1c41c48e1ada4723454365c66777d2a69f 158 main/binary-amd64/Release

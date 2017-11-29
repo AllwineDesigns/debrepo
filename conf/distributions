@@ -1,0 +1,7 @@
+Origin: Allwine Designs
+Label: Allwine Designs GitHub
+Suite: stable
+Codename: xenial
+Architectures: amd64
+Components: main
+Description: Debian amd64 packages hosted on GitHub
